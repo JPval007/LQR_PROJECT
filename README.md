@@ -10,4 +10,4 @@ The system model was created by using a state space model with the capacitor vol
 The model was simulated using Matlab and Simscape using the Simscape Electrical library. 
 
 3. Physical system and TivaC LQR code:
-Finally, it was implemented in the TivaC board to
+Finally, it was implemented in the TivaC board to stabilize the system's response to sudden changes to the input voltage and frecuency of the PWM signal.
